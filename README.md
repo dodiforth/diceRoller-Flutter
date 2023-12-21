@@ -1,3 +1,5 @@
+![image info](screenshots/both.jpg)
+
 # ROLL DICE APP
 * Plaform: iOS / Android
 * Language: Dart SDK version 3.2.3 (stable)
