@@ -1,4 +1,7 @@
 ![image info](screenshots/both.jpg)
+###
+- Android_Pixel_6_API34
+- iPhone_15_Pro_Max_iOS17.0
 
 # ROLL DICE APP
 * Plaform: iOS / Android
